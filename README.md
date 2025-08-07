@@ -8,11 +8,11 @@ A fun terminal-based C++ game where you guess the numeric position of letters in
 - Colorful terminal output using ANSI escape codes
 - Educational and beginner-friendly logic
 - Replayable rounds
+### 👇 Gameplay Example
+![Guessing Round](Screenshot.png)
 
 ## 🛠 How to Compile & Run
 
 ```bash
 g++ Game.cpp -o game
 ./game
-### 👇 Gameplay Example
-![Guessing Round](Screenshot.png)
