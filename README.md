@@ -14,3 +14,5 @@ A fun terminal-based C++ game where you guess the numeric position of letters in
 ```bash
 g++ Game.cpp -o game
 ./game
+### 👇 Gameplay Example
+![Guessing Round](Screenshot.png)
